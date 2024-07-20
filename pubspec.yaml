@@ -38,6 +38,7 @@ dependencies:
   # Database
   firebase_core: ^3.1.1
   firebase_auth: ^5.1.1
+  convex_bottom_bar: ^3.2.0
 
 dev_dependencies:
   flutter_test:

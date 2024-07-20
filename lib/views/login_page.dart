@@ -1,3 +1,4 @@
+import 'package:eco_track/views/home_view.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
@@ -32,7 +33,7 @@ class _LoginPageState extends State<LoginPage> {
         );
         Navigator.pushReplacement(
           context,
-          MaterialPageRoute(builder: (context) => const HomePage()),
+          MaterialPageRoute(builder: (context) => const HomeView()),
         );
       } on FirebaseAuthException catch (e) {
         String errorMessage;
@@ -124,7 +125,7 @@ class _LoginPageState extends State<LoginPage> {
                     Navigator.push(
                       context,
                       MaterialPageRoute(
-                          builder: (context) => RegisterPage()),
+                          builder: (context) => const RegisterPage()),
                     );
                   },
                   child: Text(
@@ -157,22 +158,6 @@ class _LoginPageState extends State<LoginPage> {
         prefixIcon: Icon(icon),
       ),
       validator: validator,
-    );
-  }
-}
-
-class HomePage extends StatelessWidget {
-  const HomePage({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: const Text('Ana Sayfa'),
-      ),
-      body: const Center(
-        child: Text('EcoTrack\'e Hoşgeldiniz!'),
-      ),
     );
   }
 }
