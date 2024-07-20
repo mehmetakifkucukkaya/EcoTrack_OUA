@@ -1,5 +1,6 @@
 import 'package:convex_bottom_bar/convex_bottom_bar.dart';
 import 'package:eco_track/views/home_page.dart';
+import 'package:eco_track/views/profile_page.dart';
 import 'package:flutter/material.dart';
 
 class HomeView extends StatefulWidget {
@@ -21,7 +22,7 @@ class _HomeViewState extends State<HomeView> {
   static const List<Widget> pages = <Widget>[
     Icon(Icons.insert_chart, size: 150),
     HomePage(),
-    Icon(Icons.person, size: 150),
+    ProfilePage()
   ];
 
   @override

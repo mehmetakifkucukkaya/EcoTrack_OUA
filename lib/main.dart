@@ -1,4 +1,5 @@
 import 'package:eco_track/views/home_view.dart';
+import 'package:eco_track/views/profile_page.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 
@@ -29,6 +30,7 @@ class MyApp extends StatelessWidget {
       ),
       routes: {
         '/': (context) => const HomeView(),
+        '/profile': (context) => const ProfilePage(),
       },
     );
   }
