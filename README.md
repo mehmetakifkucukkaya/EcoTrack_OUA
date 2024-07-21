@@ -89,3 +89,46 @@ Alınan kararlar: Kullanıcı giriş sayfası oluşturma. Gemini api kullanarak 
 - **Sprint Retrospective:**
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
   - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+# Sprint 1
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 200 Puan
+
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 600 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 200 ile başlaması gerektiğine karar verildi.
+
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg olarak altda paylaşılmıştır.
+  ![Screenshot 1](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/Ekran%20görüntüsü%202024-07-07%20210401.png)
+  ![Screenshot 2](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/Ekran%20görüntüsü%202024-07-07%20210439.png)
+  ![Screenshot 3](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/Screenshot_20240706_224815_WhatsApp.jpg)   
+
+
+- **Sprint board update**: Sprint board ve Burndown Chart screenshotları: 
+![Backlog 1](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/Ekran%20görüntüsü%202024-07-07%20024904.png)
+![Backlog 2](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/Ekran%20görüntüsü%202024-07-07%20185s738.png)
+![Burndowns Chart 3](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/Ekran%20görüntüsü%202024-07-07%20170225.png)
+   
+
+#**Ürün Durumu**: Ekran görüntüleri:
+
+  ![Screenshot 1](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/ecotrack%20.png)
+  
+  ![Screenshot 2](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/Ekran%20görüntüsü%202024-07-07%20185945.png)
+  
+  ![Screenshot 3](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/Ekran%20görüntüsü%202024-07-07%20192456.png)   
+
+#**Sprint Notları**:
+- Proje yönetimi için Jira kullanılması kararlaştırıldı.
+- UI tasarımları için hazır paketler kullanılmaya karar verildi.
+- Veri tabanı için firabse kullanılmaya karar verildi.
+- Giriş sistemi için e-posta kullanılması kararlaştırıldı.
+- Yapay zeka olarak tflite kullanılması kararlaştırıldı.
+- Chat Api olarak ise gemini kullanılması kararlaştırıldı.
+
+
+- **Sprint Review**: 
+Alınan kararlar: Kullanıcı giriş sayfası oluşturma. Gemini api kullanarak chat bot yapma. İsim ve uygulamanın nasıl olacağına karar verme. Firabase kurulumu yapma ve entegre etme. Sprint Review katılımcıları: Mehmet Akif Küçük
+
+- **Sprint Retrospective:**
+  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+  - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
