@@ -102,7 +102,7 @@ Alınan kararlar: Kullanıcı giriş sayfası oluşturma. Gemini api kullanarak 
 
   ![Screenshot 3](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/sprint2/sprint2/wp3.png)
   
-  ![Screenshot 2](hhttps://github.com/HuseTatar/EcoTrack_OUA/blob/main/sprint2/sprint2/wp2.png)
+  ![Screenshot 2](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/sprint2/sprint2/wp2.png)
   
      
 
