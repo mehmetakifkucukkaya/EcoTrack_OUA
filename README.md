@@ -99,12 +99,16 @@ Alınan kararlar: Kullanıcı giriş sayfası oluşturma. Gemini api kullanarak 
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg olarak altda paylaşılmıştır.
   ![Screenshot 1](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/sprint2/sprint2/wp1.png)
+
+  ![Screenshot 3](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/sprint2/sprint2/wp3.png)
+  
   ![Screenshot 2](hhttps://github.com/HuseTatar/EcoTrack_OUA/blob/main/sprint2/sprint2/wp2.png)
-  ![Screenshot 3](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/sprint2/sprint2/wp3.png)   
+  
+     
 
 
 - **Sprint board update**: Sprint board ve Burndown Chart screenshotları: 
-![Backlog 1].(https://github.com/HuseTatar/EcoTrack_OUA/blob/main/sprint2/sprint2/jira.png)
+![Backlog 1](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/sprint2/sprint2/jira.png)
 ![Backlog 2](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/sprint2/sprint2/g%C3%B6revler.png)
 ![Burndowns Chart 3](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/sprint2/sprint2/burndownchart.png)
    
