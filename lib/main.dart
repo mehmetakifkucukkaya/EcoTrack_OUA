@@ -1,3 +1,4 @@
+import 'package:eco_track/views/camera_view.dart';
 import 'package:eco_track/views/home_view.dart';
 import 'package:eco_track/views/profile_page.dart';
 import 'package:firebase_core/firebase_core.dart';
@@ -31,6 +32,7 @@ class MyApp extends StatelessWidget {
       routes: {
         '/': (context) => const HomeView(),
         '/profile': (context) => const ProfilePage(),
+        '/cameraScan': (context) => const CameraView(),
       },
     );
   }

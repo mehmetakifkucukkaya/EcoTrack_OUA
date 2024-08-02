@@ -1,4 +1,5 @@
 import 'package:convex_bottom_bar/convex_bottom_bar.dart';
+import 'package:eco_track/views/camera_view.dart';
 import 'package:eco_track/views/chatbot.dart';
 import 'package:eco_track/views/home_page.dart';
 import 'package:eco_track/views/profile_page.dart';
@@ -21,7 +22,7 @@ class _HomeViewState extends State<HomeView> {
   }
 
   static const List<Widget> pages = <Widget>[
-    Icon(Icons.insert_chart, size: 150),
+    CameraView(),
     HomePage(),
     ChatView(),
     ProfilePage(),
