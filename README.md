@@ -89,3 +89,48 @@ Alınan kararlar: Kullanıcı giriş sayfası oluşturma. Gemini api kullanarak 
 - **Sprint Retrospective:**
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
   - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+# Sprint 2
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 200 Puan
+
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 600 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en azından 200 ile başlaması gerektiğine karar verildi.
+
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg olarak altda paylaşılmıştır.
+  ![Screenshot 1](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/sprint2/sprint2/wp1.png)
+
+  ![Screenshot 3](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/sprint2/sprint2/wp3.png)
+  
+  ![Screenshot 2](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/sprint2/sprint2/wp2.png)
+  
+     
+
+
+- **Sprint board update**: Sprint board ve Burndown Chart screenshotları: 
+![Backlog 1](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/sprint2/sprint2/jira.png)
+![Backlog 2](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/sprint2/sprint2/g%C3%B6revler.png)
+![Burndowns Chart 3](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/sprint2/sprint2/burndownchart.png)
+   
+
+#**Ürün Durumu**: Ekran görüntüleri:
+
+  ![Screenshot 1](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/sprint2/sprint2/%C3%BCr%C3%BCn1.jpg)
+  
+  ![Screenshot 2](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/sprint2/sprint2/%C3%BCr%C3%BCn2.jpg)
+  
+  ![Screenshot 3](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/sprint2/sprint2/%C3%BCr%C3%BCn3.jpg)   
+  
+  ![Screenshot 4](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/sprint2/sprint2/%C3%BCr%C3%BCn4.jpg)    
+#**Sprint Notları**:
+- Yapay zekada tflite ile mobilenetv2 kulalnılması kararlaştırldı.
+- Map koyma kısmını kaldırmayı kararlaştırdık.
+- Firabase için daha fazal veri koyması kararlaştırldı.
+- Giriş sistemine google ile giriş eklenmesi kararlaştıldı.
+
+- **Sprint Review**: 
+Alınan kararlar: Kullanıcı ana menü sayfası oluşturma. mobilnetv2 kullanarak ürün okuma yapma . Kullanıcı Profil Sayfası Ayarlama. Ayalar kısmı ekleme . Sprint Review katılımcıları: Mehmet Akif Küçük
+
+- **Sprint Retrospective:**
+  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+  - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
