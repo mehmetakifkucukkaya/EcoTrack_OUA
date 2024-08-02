@@ -1,3 +1,4 @@
+import 'package:eco_track/views/activity.dart';
 import 'package:eco_track/views/camera_view.dart';
 import 'package:eco_track/views/home_view.dart';
 import 'package:eco_track/views/profile_page.dart';
@@ -33,6 +34,7 @@ class MyApp extends StatelessWidget {
         '/': (context) => const HomeView(),
         '/profile': (context) => const ProfilePage(),
         '/cameraScan': (context) => const CameraView(),
+        '/activity': (context) => const ActivityPage(),
       },
     );
   }

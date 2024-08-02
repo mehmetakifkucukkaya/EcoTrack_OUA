@@ -37,7 +37,7 @@ class _HomeViewState extends State<HomeView> {
         backgroundColor: Colors.green,
         style: TabStyle.titled,
         items: const <TabItem>[
-          TabItem(icon: Icons.insert_chart, title: 'İstatistiklerim'),
+          TabItem(icon: Icons.insert_chart, title: 'Kamera'),
           TabItem(icon: Icons.home, title: 'Ana Sayfa'),
           TabItem(icon: Icons.chat, title: 'ChatBot'),
           TabItem(icon: Icons.person, title: 'Profil'),
