@@ -7,9 +7,9 @@ Takım Flutter 19
 ## Takım Elemanları
 - Hüseyin Tataroğlu: Scrum Master / Product Owner / Developer
 - Mehmet Akif Küçükkaya: Developer
-- Hülya Ceren Lüleci: Developer
-- Mehmet Fatih Kuru: Developer
-- Hazal Nur Türkmen: Developer
+- Hülya Ceren Lüleci:Katılmadı 
+- Mehmet Fatih Kuru: Katılmadı
+- Hazal Nur Türkmen: Katılmadı
 
 ## Ürün İsmi
 
@@ -134,3 +134,50 @@ Alınan kararlar: Kullanıcı ana menü sayfası oluşturma. mobilnetv2 kullanar
 - **Sprint Retrospective:**
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
   - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+
+# Sprint 3
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 200 Puan
+
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 600 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprint'in 200 puan olmasına karar verildi.
+
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg olarak altda paylaşılmıştır.
+  ![Screenshot 1](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/wp1.png)
+
+  ![Screenshot 3](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/wp2.png)
+  
+  ![Screenshot 2](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/wp3.png)
+  
+     
+
+
+- **Sprint board update**: Sprint board ve Burndown Chart screenshotları: 
+![Backlog 1](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/kay%C4%B1r/jira.png)
+![Backlog 2](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/kay%C4%B1r/g%C3%B6revler.png)
+![Burndowns Chart 3](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/kay%C4%B1r/burndwon.png)
+   
+
+#**Ürün Durumu**: Ekran görüntüleri:
+
+  ![Screenshot 1](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/%C3%BCr%C3%BCn%20g%C3%B6rsel/Screenshot_20240802_233628.jpg)
+  
+  ![Screenshot 2](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/%C3%BCr%C3%BCn%20g%C3%B6rsel/Screenshot_20240802_233631.jpg)
+  
+  ![Screenshot 3](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/%C3%BCr%C3%BCn%20g%C3%B6rsel/Screenshot_20240802_233638.jpg)   
+  
+  ![Screenshot 4](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/%C3%BCr%C3%BCn%20g%C3%B6rsel/Screenshot_20240802_233652.jpg)    
+  
+  ![Screenshot 5](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/%C3%BCr%C3%BCn%20g%C3%B6rsel/Screenshot_20240802_233658.jpg)    
+#**Sprint Notları**:
+- Son rutuşlar yapıldı.
+- Apk Alındı.
+- Apk Test Edildi.
+
+- **Sprint Review**: 
+Alınan kararlar: Son eklemeler ve düzenlemeler yapıldı  . Sprint Review katılımcıları: Mehmet Akif Küçük
+
+- **Sprint Retrospective:**
+  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+  - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.  
