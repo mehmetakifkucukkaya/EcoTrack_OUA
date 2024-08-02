@@ -21,6 +21,7 @@ class ProfilePage extends StatelessWidget {
       ),
     );
   }
+  
 
   Widget _buildHeader() {
     return Container(
