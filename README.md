@@ -183,4 +183,4 @@ Alınan kararlar: Son eklemeler ve düzenlemeler yapıldı  . Sprint Review kat�
   - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
 
 - **Ürün İndirme Linki **
- ![Link](https://drive.google.com/file/d/1Lfkp44sKU__F4g8a25-d1EXX4gUs--4m/view?usp=sharing)  
+https://drive.google.com/file/d/1Lfkp44sKU__F4g8a25-d1EXX4gUs--4m/view?usp=sharing 
