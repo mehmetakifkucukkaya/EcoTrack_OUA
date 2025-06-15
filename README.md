@@ -7,7 +7,6 @@ Takım Flutter 19
 ## Takım Elemanları
 - Hüseyin Tataroğlu: Scrum Master / Product Owner / Developer
 - Mehmet Akif Küçükkaya: Developer
-- Hülya Ceren Lüleci:Katılmadı 
 - Mehmet Fatih Kuru: Katılmadı
 - Hazal Nur Türkmen: Katılmadı
 
@@ -56,7 +55,6 @@ EcoTrack, kullanıcıların günlük tükettikleri ürünlerin çevresel etkiler
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg olarak altda paylaşılmıştır.
   ![Screenshot 1](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/Ekran%20görüntüsü%202024-07-07%20210401.png)
-  ![Screenshot 2](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/Ekran%20görüntüsü%202024-07-07%20210439.png)
   ![Screenshot 3](https://github.com/HuseTatar/EcoTrack_OUA/blob/main/Screenshot_20240706_224815_WhatsApp.jpg)   
 
 
